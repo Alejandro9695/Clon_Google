@@ -1,0 +1,6 @@
+links:
+- Gmail: https://mail.google.com/mail/?authuser=0&ogbl
+- Google Imágenes: https://www.google.com.co/imghp?hl=es&authuser=0&ogbl
+- Icono 9 puntos: https://sites.google.com/site/elblogmusicbr/_/rsrc/1432053499601/logica/6D015BA9B.png
+- Icono Google: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
+- Icono "voy a tener surte": https://www.google.com/doodles

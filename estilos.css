@@ -1,0 +1,168 @@
+/*////////////////////////////////Header////////////////////////////////////////*/
+header nav{
+    display: block;
+    width: auto;
+}
+header li{/*pone en bloque de linea los elementos en lista de header*/
+    display: inline-block;
+    margin-left: 15px;
+    margin: 0px;
+    
+}
+header a{
+    color: rgba(0,0,0,.87);
+    font-size: 13px;
+    text-decoration: none;
+}
+.Buttons{
+    height: 48px;
+    padding: 6px;
+    margin: 0px;  
+}
+.photo-container{
+    float: right;
+    padding: 12px;
+}
+.photo{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.email{
+    float: right;
+    padding: 15px;
+    padding-top: 22px;
+    height: 24px;
+}
+.images{
+    float: right;
+    padding: 15px;
+    padding-top: 22px;
+    height: 24px;
+}
+.icon-points{
+    height: 40px;
+    width: 40px;
+    float: right;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+/*///////////////////////////////////Body///////////////////////////////////////*/
+body{
+    font-family: arial,sans-serif;
+    margin: 0px;
+}
+#logop{
+    display: block;
+}
+.Logo{
+    display: block;
+    height: 92px;
+    width: 274px;
+    margin-top: 11px;
+    margin-left: 40%;
+}
+/*////////////////////////////////////Secciones/////////////////////////////////*/
+#Buscador{
+    display: block;
+    height: 120px;
+    width: auto;
+    padding: 20px;
+}
+#in.search{
+    display: block;
+    height: 44px;
+    border-radius: 40px;
+    padding: 6px;
+}
+.Buscar{
+   text-align: center;
+}
+#Buscador input{
+    height: 44px;
+    border-radius: 22px;
+    width: 582px;
+    border: 1px solid #dfe1e5;
+    padding: 0px;
+}
+.Botones{
+    display: block;
+    padding-top: 18px;
+    height: 70px;
+    text-align: center;
+}
+.Botones a{
+    text-decoration: none;
+    color: #3c4043;
+}
+#Buscador button{
+    background-color:#f2f2f2;
+    border: none;
+    width: auto;
+    height: 36px;
+    padding: 0px 16px;
+    border: 1px solid #f8f9fa;
+    margin: 11px 4px;
+    border-radius: 4px;
+    color: #3c4043;
+    font-size: 14px;
+}
+#Ubicación{
+    display: block;
+    height: 246px;
+    min-width: 400px;
+    text-align: center;
+}
+#Ubicación a{
+    display: inline-block;
+}
+.ubic{
+    display: inline-block;
+    height: 28px;
+    margin-bottom: 24px;
+    font-size: 13px;
+}
+.texto{
+    color: #4d5156
+}
+.lugar{
+    color: #681da8;
+}
+#Pais{
+    background-color:#f2f2f2; 
+    padding: 15px 30px; 
+    height: 17px;
+    border-bottom: 1px solid #dadce0;
+    font-size: 15px;
+    color: #70757a;
+}
+/*////////////////////////////////////////Footer////////////////////////////////*/
+footer nav{
+    display: inline-block;
+   height: auto;
+    width: auto;
+    
+}
+.otros.google{
+    padding: 0px;
+    margin: 0px;
+    padding: 0px 20px;
+}
+footer li{
+    display: inline-block;
+    height: 16px;
+    padding: 15px;
+    margin: 0px;
+    
+}
+footer{
+    background-color:#f2f2f2;
+    height: auto;
+    height: auto;
+    width: auto
+}
+footer a{
+  color: #70757a;  
+  font-size: 14px;
+  text-decoration: none;
+}
